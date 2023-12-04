@@ -1,3 +1,4 @@
+import Projeto from './components/Projeto'
 import Sidebar from './containers/Sidebar'
 import Projetos from './containers/Sidebar/Projetos'
 import Sobre from './containers/Sidebar/Sobre'
