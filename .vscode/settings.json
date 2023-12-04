@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": false, //desliga formatter do VSCode
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true //liga o formatter automático do eslint
+  }
+
+}
+
+
+
